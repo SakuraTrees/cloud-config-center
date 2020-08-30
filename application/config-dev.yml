@@ -1,2 +1,6 @@
-Demo
- dev: this is dev config center
+server:
+  port: 3344
+
+spring:
+  application:
+    name: cloud-config-center
